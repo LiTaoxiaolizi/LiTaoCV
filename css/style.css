@@ -51,7 +51,6 @@ body a {
 		margin-bottom: 10.6em
 }
 .banner1{
-	background:url(../images/banner.jpg) no-repeat 0px 0px;
 	background-size:cover;
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
@@ -939,7 +938,6 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 630px;
 		margin-bottom: 10.9em;
-		    background: url(../images/banner.jpg) no-repeat -62px 0px;
 		background-size: cover;
 		-webkit-background-size: cover;
 		-moz-background-size: cover;
@@ -984,6 +982,7 @@ a.lightbox img:hover {
 	.banner {
 		min-height: 604px;
 		margin-bottom: 10.4em;
+		background: #749877;
 	}
 	h5.sub {
 		font-size: 16px;
@@ -1042,9 +1041,9 @@ a.lightbox img:hover {
 		height: 301px;
 	}
 	.banner {
+	   background: #749877;
 		min-height: 578px;
 		margin-bottom: 10.5em;
-		background: url(../images/banner.jpg) no-repeat -120px 0px;
 		background-size: cover;
 	}
 	.work-left {
@@ -1127,9 +1126,9 @@ a.lightbox img:hover {
 		left: 5.7em;
 	}
 	.banner {
+		background: #749877;
 		min-height: 538px;
 		margin-bottom: 9.8em;
-		background: url(../images/banner.jpg) no-repeat -96px 0px;
 		background-size: cover;
 	}
 	.banner-right-w3-agileits iframe {
@@ -1185,9 +1184,9 @@ a.lightbox img:hover {
 		height: 280px;
 	}
 	.banner {
+		background: #749877;
 		min-height: 490px;
 		margin-bottom: 10em;
-		background: url(../images/banner.jpg) no-repeat -45px 0px;
 		background-size: cover;
 	}
 	p.pop {
@@ -1213,9 +1212,10 @@ a.lightbox img:hover {
 		padding: 2em 0 6em;
 	}
 	.banner {
+		background: #749877;
 		min-height: 470px;
 		margin-bottom: 9.96em;
-		background: url(../images/banner.jpg) no-repeat -26px 0px;
+		
 		background-size: cover;
 	}
 	.banner-btm-grid-w3ls {
@@ -1310,9 +1310,9 @@ a.lightbox img:hover {
 		top: 17.5em;
 	}
 	.banner {
+		background: #749877;
 		min-height: 435px;
 		margin-bottom: 9.2em;
-		background: url(../images/banner.jpg) no-repeat -33px 0px;
 		background-size: cover;
 	}
 	.banner-right-w3-agileits iframe {
@@ -1374,7 +1374,6 @@ a.lightbox img:hover {
 		left: 22.5%;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -100px 0px;
 		background-size: cover;
 		    margin-bottom: 8.95em;
 	}
@@ -1431,7 +1430,7 @@ a.lightbox img:hover {
 		top: 16em;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -20px 0px;
+		background: #749877;
 		background-size: cover;
 		margin-bottom: 12.45em;
 		min-height: 355px;
@@ -1469,7 +1468,7 @@ a.lightbox img:hover {
 		width: 30%;
 	}
 	.banner {
-		background: url(../images/banner.jpg) no-repeat -60px 0px;
+		background: #749877;
 		background-size: cover;
 		margin-bottom: 32.8em;
 	}
@@ -1499,6 +1498,7 @@ a.lightbox img:hover {
 		padding: 65px 0px;
 	}
 	.banner {
+		background: #749877;
 		margin-bottom: 32.9em;
 		min-height: 348px;
 	}
@@ -1524,6 +1524,7 @@ a.lightbox img:hover {
 		top: 14.8em;
 	}
 	.banner {
+		background: #749877;
 		margin-bottom: 32.4em;
 		min-height: 327px;
 	}
@@ -1761,6 +1762,7 @@ a.lightbox img:hover {
 		padding: 1em .8em 2em;
 	}
 	.banner {
+		background: #749877;
 		margin-bottom: 28.45em;
 		min-height: 240px;
 	}
@@ -1829,10 +1831,11 @@ a.lightbox img:hover {
 		font-size: 18px;
 	}
 	.banner {
+		
 		margin-bottom: 29.79em;
-		background: url(../images/banner.jpg) no-repeat -25px 0px;
 		background-size: cover;
 		min-height: 205px;
+		background: #749877;
 	}
 	.work-info p {
 		font-size: 13px;
@@ -1899,7 +1902,6 @@ a.lightbox img:hover {
 	}
 	.banner {
 		margin-bottom: 30.45em;
-		background: url(../images/banner.jpg) no-repeat -16px 0px;
 		background-size: cover;
 		min-height: 192px;
 	}
@@ -1955,8 +1957,8 @@ a.lightbox img:hover {
 		font-size: 11.5px;
 	}
 	.banner {
+		background: #749877;
 		margin-bottom: 29.2em;
-		background: url(../images/banner.jpg) no-repeat -5px 0px;
 		background-size: cover;
 		min-height: 160px;
 	}
